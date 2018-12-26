@@ -1,0 +1,1 @@
+# AdapterXcode10
